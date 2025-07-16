@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevanza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stevanza&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevanza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevanza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_ANDA]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
