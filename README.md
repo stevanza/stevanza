@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevanza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_ANDA]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevanza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
